@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Experimenting with Github Pages"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Github pages is a wonderful way to make a nice website without setting up a server.
