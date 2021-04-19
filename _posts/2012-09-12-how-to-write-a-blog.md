@@ -1,6 +1,7 @@
 ---
+title: "Welcome to my blog"
+date: 2021-04-19
 layout: post
-title:  "Welcome to Jekyll!"
 ---
 
 # Welcome
